@@ -1,3 +1,5 @@
+![Capture](https://user-images.githubusercontent.com/129537622/229847669-76d02e15-a5d7-420b-bb93-0279c9da561e.PNG)
+
 Exodus is a powerful tool for logging and stealing tokens and cookies. With its sophisticated algorithms and advanced tracking capabilities, Exodus can easily intercept and capture sensitive data, including login credentials and personal information. Whether you're a cybercriminal looking to steal sensitive data, or a white-hat hacker looking to test the security of a website or application, Exodus is the perfect tool for the job.
 
 Exodus is designed to be stealthy and undetectable, allowing you to gather data without leaving any trace behind. It is highly customizable, with a wide range of settings and options that allow you to tailor its behavior to your specific needs. Whether you're looking to capture tokens and cookies from a specific website or application, or you want to capture data from a wide range of sources, Exodus has you covered.
@@ -45,5 +47,5 @@ Everything 🟢
 
 Join Our Discord https://discord.gg/BcGbDEfP
 
-![Capture](https://user-images.githubusercontent.com/129537622/229847455-d9b062df-b257-436b-aa42-3c2ab7cf3bb5.PNG)
+
 
