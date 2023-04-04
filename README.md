@@ -45,4 +45,5 @@ Everything 🟢
 
 Join Our Discord https://discord.gg/BcGbDEfP
 
+![Capture](https://user-images.githubusercontent.com/129537622/229847455-d9b062df-b257-436b-aa42-3c2ab7cf3bb5.PNG)
 
